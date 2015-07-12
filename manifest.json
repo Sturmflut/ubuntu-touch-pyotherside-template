@@ -1,0 +1,17 @@
+{
+    "name": "ubuntu-touch-pyotherside-template.sturmflut",
+    "description": "description of ubuntu-touch-pyotherside-template",
+    "architecture": "all",
+    "title": "ubuntu-touch-pyotherside-template",
+    "hooks": {
+        "pyotherside-template": {
+            "apparmor": "pyotherside-template.apparmor",
+            "desktop":  "pyotherside-template.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Sturm Flut <sturmflut@lieberbiber.de>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

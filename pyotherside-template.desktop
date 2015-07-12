@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=pyotherside-template
+Exec=qmlscene $@ Main.qml
+Icon=ubuntu-touch-pyotherside-template.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
